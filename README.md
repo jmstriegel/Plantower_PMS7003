@@ -14,6 +14,13 @@ connected device roughly once a second. Concentration measurements
 are provided for PM1.0 (0.3-1.0um), PM2.5 (1.0-2.5um), and PM10
 (2.5-10.0um).
 
+ - [Manufacturer Site](http://www.plantower.com/en/content/?110.html)
+ - [Documentation (Mandarin)](http://aqicn.org/air/view/sensor/spec/pms7003.pdf)
+ - [Review / Evaluation](http://aqicn.org/sensor/pms5003-7003/)
+ - [English Documentation for the 5003 (same protocol)](http://www.aqmd.gov/docs/default-source/aq-spec/resources-page/plantower-pms5003-manual_v2-3.pdf)
+ - [Amazon Search (Roughly $40)](https://www.amazon.com/s/keywords=pms7003)
+
+
 ## Interface
 
 Interfacing with the device is via an atypical 1.27mm pitch 10-pin

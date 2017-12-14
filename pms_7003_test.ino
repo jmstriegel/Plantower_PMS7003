@@ -4,11 +4,7 @@ This is an example which demonstrates use of the Plantower PMS7003
 laser particle counter. This should also work the the PMS5003 sensor,
 as they share the same protocol.
 
-For more information about the PMS7003:
-http://www.plantower.com/en/content/?110.html
-http://aqicn.org/sensor/pms5003-7003/
-http://www.aqmd.gov/docs/default-source/aq-spec/resources-page/plantower-pms5003-manual_v2-3.pdf?sfvrsn=2
-https://www.amazon.com/s/keywords=pms7003
+For more information about the PMS7003, see README.md.
 
 Written by Jason Striegel.
 BSD license. See license.txt for details.
