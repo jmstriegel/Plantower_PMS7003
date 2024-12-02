@@ -38,7 +38,7 @@ void Plantower_PMS7003::updateFrame() {
     return;
   }
   dataReady = false;
-  if (serial->available()) {
+  while (serial->available() && bufferIndex < PMS7003_DATA_SIZE) {
     nextByte = serial->read();
     
     if (nextByte == 0x4d && lastByte == 0x42 ) {
